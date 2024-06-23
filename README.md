@@ -2,7 +2,7 @@ Early on in my career, I vowed to only create products that would have a positiv
 
 As a thought leader in the XR industry, my contributions have played a crucial role in driving significant advancements in mixed reality. I've had a notable impact across various market sectors, including defense, architectural visualization, training and simulation, healthcare, and entertainment. I am recognized for my ability to seamlessly integrate cutting-edge emerging technologies with user-centric design, showcasing a profound commitment to both the art of design and the science of technology. I continue to actively develop and maintain numerous open-source libraries for Unity on GitHub, with a focus on generative AI.
 
-Motivated by a desire to create opportunities rather than simply seeking them, I approach challenges with a mindset focused on success; a word I define as "helping others be successful".
+Motivated by a desire to create opportunities rather than simply seeking them, I approach challenges with a mindset focused on success; a word I define as "***helping others be successful***".
 
 [![image](images/rage-against-the-pixel-cover.png "Pateon")](https://www.patreon.com/RageAgainstThePixel)
 ![views](https://komarev.com/ghpvc/?username=StephenHodgson&style=flat-square)
