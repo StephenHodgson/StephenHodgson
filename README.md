@@ -6,4 +6,3 @@ Motivated by a desire to create opportunities rather than simply seeking them, I
 
 [![image](images/rage-against-the-pixel-cover.png "Pateon")](https://www.patreon.com/RageAgainstThePixel)
 ![views](https://komarev.com/ghpvc/?username=StephenHodgson&style=flat-square)
-
