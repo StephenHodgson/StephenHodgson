@@ -9,3 +9,5 @@ Motivated by a desire to create opportunities rather than simply seeking them, I
 [![discord](https://img.shields.io/discord/855294214065487932?style=flat-square&logo=discord&logoColor=white&label=discord&color=blue)](https://discord.gg/xQgMW9ufN4)
 [![total-stars](https://img.shields.io/github/stars/StephenHodgson?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat-square&label=Total%20Stars)](https://github.com/RageAgainstThePixel)
 [![views](https://komarev.com/ghpvc/?username=StephenHodgson&style=flat-square)](https://github.com/StephenHodgson)
+
+
