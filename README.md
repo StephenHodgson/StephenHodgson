@@ -4,7 +4,12 @@ As a thought leader in the XR industry, my contributions have played a crucial r
 
 Motivated by a desire to create opportunities rather than simply seeking them, I approach challenges with a mindset focused on success; a word I define as "***helping others be successful***".
 
-[![image](images/rage-against-the-pixel-cover.png "Pateon")](https://www.patreon.com/RageAgainstThePixel)
+[![image](images/rage-against-the-pixel-cover.png "Sponsor")](https://github.com/sponsors/StephenHodgson)
+
+Love my plugins and supporting independant creators?
+
+- [Patreon](https://www.patreon.com/RageAgainstThePixel)
+- [GitHub Sponsors](https://github.com/sponsors/StephenHodgson)
 
 [![discord](https://img.shields.io/discord/855294214065487932?style=flat-square&logo=discord&logoColor=white&label=discord&color=blue)](https://discord.gg/xQgMW9ufN4)
 [![total-stars](https://img.shields.io/github/stars/StephenHodgson?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat-square&label=Total%20Stars)](https://github.com/RageAgainstThePixel)
